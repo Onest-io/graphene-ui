@@ -41,7 +41,7 @@
     "foundation-apps": "git+https://github.com/zurb/foundation-apps.git",
     "fractional": "^1.0.0",
     "graphenejs-lib": "^0.5.1",
-    "highcharts": "4.2.6",
+    "highcharts": "8.2.0",
     "immutable": "^3.8.1",
     "indexeddbshim": "^2.0.4",
     "intl": "^1.1.0",
